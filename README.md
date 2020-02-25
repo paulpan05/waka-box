@@ -8,6 +8,8 @@
 
 > 📌✨ For more pinned-gist projects like this one, check out: https://github.com/matchai/awesome-pinned-gists
 
+![Update gist with WakaTime stats](https://github.com/paulpan05/waka-box/workflows/Update%20gist%20with%20WakaTime%20stats/badge.svg)
+
 ## Setup
 
 ### Prep work
